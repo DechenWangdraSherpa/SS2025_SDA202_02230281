@@ -1,6 +1,6 @@
 # Architecture Characteristics Worksheet
 
-![alt text](Architectural-characteristics-worksheet.png)
+![alt text](Architectural_characteristics_worksheet.png)
 
 ---
 
