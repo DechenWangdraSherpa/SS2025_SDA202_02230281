@@ -1,6 +1,17 @@
 # Architecture Characteristics Worksheet
 
-![alt text](Architectural_characteristics_worksheet.png)
+![alt text](Architectural-characteristics-worksheet.png)
+
+## Team Members:
+Dechen Wangdra Sherpa<br>
+Tandin Om<br>
+Pema Dolker<br>
+Tandin Zangmo
+
+### Top 3 Driving Characteristics:
+1. Availability
+2. Scalability
+3. Interoperability
 
 ---
 
